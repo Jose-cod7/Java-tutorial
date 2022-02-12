@@ -4,7 +4,7 @@ public class Duck extends Animal{
 
     @Override
     public void makeSound() {
-        System.out.println("Cuak cuak!!!");
+        System.out.println("pato pato!!!");
     }
 
 

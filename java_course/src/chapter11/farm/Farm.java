@@ -8,8 +8,8 @@ public class Farm {
         pig.makeSound();
         pig.eat();
 
-        Animal duck = new Duck();
-        duck.makeSound();
-        duck.eat();
+        Animal donald = new Duck();
+        donald.makeSound();
+        donald.eat();
     }
 }
